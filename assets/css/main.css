@@ -1027,12 +1027,8 @@
 	}
 
 	#header h1 {
-<<<<<<< HEAD
 		font-size: 4.5em;
     color: goldenrod;
-=======
-		font-size: 3.25em;
->>>>>>> 4ab828900be09f1e0421d3d5cb2d42fb209c82af
 		margin: 1.55em 0 0.55em 0;
 		position: relative;
 		/*top: 5em;*/
@@ -1046,24 +1042,14 @@
 	}
 	
 	#header h2.about {
-<<<<<<< HEAD
 	  font-family: 'Pompiere', cursive;
 		font-size: 2.75em;
-=======
-	  font-family: 'Nunito', sans-serif;
-		font-size: 1.75em;
->>>>>>> 4ab828900be09f1e0421d3d5cb2d42fb209c82af
 		line-height: 1.5em;
 	}
 	
 	#header p.about {
-<<<<<<< HEAD
 	  font-family: 'Pompiere', cursive;
 		font-size: 1.8em;
-=======
-	  font-family: 'Nunito', sans-serif;
-		font-size: 1.0em;
->>>>>>> 4ab828900be09f1e0421d3d5cb2d42fb209c82af
 		line-height: 1.2em;
 		width: 75%;
 	}
@@ -1124,14 +1110,10 @@
 /*}*/
 
   #header footer {
-<<<<<<< HEAD
     position: fixed;
     bottom: 0;
     right: 40px;
 	  /* position: relative; */
-=======
-	  position: relative;
->>>>>>> 4ab828900be09f1e0421d3d5cb2d42fb209c82af
     /*padding: 2rem;*/
 		
 		-moz-transition: opacity 0.5s ease-in-out;
